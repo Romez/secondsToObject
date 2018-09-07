@@ -1,0 +1,1 @@
+small helper for seconds convert to object
