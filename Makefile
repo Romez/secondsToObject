@@ -4,6 +4,9 @@ test:
 test-watch:
 	npm run test-watch
 
+coverage:
+	npm run coverage
+
 lint:
 	npx eslint .
 
