@@ -1,1 +1,1 @@
-small helper for seconds convert to object
+### Convert seconds to object until days
